@@ -1,0 +1,10 @@
+payload:
+  # 内容：Netflix
+  - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,myavlive.com
+  - DOMAIN-SUFFIX,sacdnssedge.com
+  - DOMAIN-SUFFIX,sagcoreedge.com
+  - DOMAIN-SUFFIX,saawsedge.com
+  - DOMAIN-SUFFIX,strpst.com
+  - DOMAIN-SUFFIX,surrit.com
+  - DOMAIN-SUFFIX,reccombee.com
