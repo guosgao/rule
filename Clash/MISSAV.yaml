@@ -1,5 +1,6 @@
+# 名称: MISSAV
+# 来源：https://github.com/lincanyi/SelfDefineScriptsRule/blob/efd710e1c961693f4279d2472c5b3701c0cf42eb/Surge/RuleSet/Proxy.list
 payload:
-  # 内容：MISSAV
   - IP-CIDR,8.8.8.8/32,no-resolve // BoxJs
   - DOMAIN-SUFFIX,sub-store.vercel.app
   - DOMAIN-SUFFIX,sub.store
