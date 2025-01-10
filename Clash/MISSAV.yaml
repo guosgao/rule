@@ -1,20 +1,6 @@
 # 名称: MISSAV
 # 来源：https://github.com/lincanyi/SelfDefineScriptsRule/blob/efd710e1c961693f4279d2472c5b3701c0cf42eb/Surge/RuleSet/Proxy.list
 payload:
-  - IP-CIDR,8.8.8.8/32,no-resolve // BoxJs
-  - DOMAIN-SUFFIX,sub-store.vercel.app
-  - DOMAIN-SUFFIX,sub.store
-  - DOMAIN-SUFFIX,dler.cloud
-  - DOMAIN-SUFFIX,dlercloud.com
-  - DOMAIN-SUFFIX,matters.news
-  - DOMAIN-SUFFIX,dler.io
-  - DOMAIN-SUFFIX,dropbox.com 
-  - DOMAIN-SUFFIX,fonete.com
-  - DOMAIN-SUFFIX,clicli.cc
-  - DOMAIN-SUFFIX,telegram-cdn.org
-  - DOMAIN-SUFFIX,applehub.cn
-  - DOMAIN-SUFFIX,apphb.cn
-  - DOMAIN-SUFFIX,afcdn.net
   - DOMAIN-SUFFIX,surrit.com
   - DOMAIN-SUFFIX,strpst.com
   - DOMAIN-SUFFIX,sacdnssedge.com
@@ -26,8 +12,10 @@ payload:
   - DOMAIN-SUFFIX,recombee.com
   - DOMAIN-SUFFIX,mnaspm.com
   - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,missav.ws
   - DOMAIN-SUFFIX,xhamsterlive.com
   - DOMAIN-SUFFIX,magsrv.com
   - DOMAIN-SUFFIX,strip.chat
   - DOMAIN-SUFFIX,superchatlive.com
-  - DOMAIN-SUFFIX,nssurge.com
+  - DOMAIN-SUFFIX,hsck.la
+  - DOMAIN-SUFFIX,metacubex.one
