@@ -2,6 +2,7 @@
 # 来源：https://github.com/Nocturneee/Clash/blob/8c45f77bd2d24c30274581fbe59a567cb57f1fdb/MyDirectRules
 # 来源：https://github.com/LUODIAN-233/LuoDian_ClashConfig/blob/874e9feeb83b9452b5ba7fe3ff1c1b4af2d0cde0/Rule/InternetTest.list
 payload:
+  - IP-CIDR,131.107.255.255/32,no-resolve
   - DOMAIN-SUFFIX,connectivitycheck.platform.hicloud.com
   - DOMAIN-SUFFIX,wifi.vivo.com.cn
   - DOMAIN-SUFFIX,captive.apple.com
@@ -10,5 +11,4 @@ payload:
   - DOMAIN-SUFFIX,dns.msftncsi.com
   - DOMAIN-SUFFIX,www.msftncsi.com
   - DOMAIN-SUFFIX,ipv6.msftncsi.com
-  - IP-CIDR,131.107.255.255/32,no-resolve
 
