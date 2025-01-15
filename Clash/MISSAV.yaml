@@ -1,5 +1,5 @@
 # 名称: MISSAV
-# 来源：https://github.com/lincanyi/SelfDefineScriptsRule/blob/efd710e1c961693f4279d2472c5b3701c0cf42eb/Surge/RuleSet/Proxy.list
+# 来源：https://github.com/lincanyi/main/Surge/RuleSet/Proxy.list
 payload:
   - DOMAIN-SUFFIX,surrit.com
   - DOMAIN-SUFFIX,strpst.com
@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,mnaspm.com
   - DOMAIN-SUFFIX,missav.com
   - DOMAIN-SUFFIX,missav.ws
+  - DOMAIN-SUFFIX,missav.ai
   - DOMAIN-SUFFIX,xhamsterlive.com
   - DOMAIN-SUFFIX,magsrv.com
   - DOMAIN-SUFFIX,strip.chat
