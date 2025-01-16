@@ -14,9 +14,12 @@ payload:
   - DOMAIN-SUFFIX,missav.com
   - DOMAIN-SUFFIX,missav.ws
   - DOMAIN-SUFFIX,missav.ai
+  - DOMAIN-SUFFIX,missav.plus
   - DOMAIN-SUFFIX,xhamsterlive.com
   - DOMAIN-SUFFIX,magsrv.com
   - DOMAIN-SUFFIX,strip.chat
   - DOMAIN-SUFFIX,superchatlive.com
   - DOMAIN-SUFFIX,hsck.la
   - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,qichiyu.com
+  - DOMAIN-SUFFIX,z-lib.gs
