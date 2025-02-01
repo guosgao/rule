@@ -1,36 +1,37 @@
 # 名称: MISSAV
 # 来源：https://github.com/lincanyi/main/Surge/RuleSet/Proxy.list
 payload:
-  - DOMAIN-SUFFIX,surrit.com
-  - DOMAIN-SUFFIX,strpst.com
-  - DOMAIN-SUFFIX,sacdnssedge.com
-  - DOMAIN-SUFFIX,stripcash.com
   - DOMAIN-SUFFIX,bbrdbr.com
-  - DOMAIN-SUFFIX,xhamster.com
-  - DOMAIN-SUFFIX,myavlive.com
-  - DOMAIN-SUFFIX,fivetiu.com
-  - DOMAIN-SUFFIX,recombee.com
-  - DOMAIN-SUFFIX,mnaspm.com
-  - DOMAIN-SUFFIX,missav.com
-  - DOMAIN-SUFFIX,missav.ws
-  - DOMAIN-SUFFIX,missav.ai
-  - DOMAIN-SUFFIX,missav.plus
-  - DOMAIN-SUFFIX,xhamsterlive.com
-  - DOMAIN-SUFFIX,magsrv.com
-  - DOMAIN-SUFFIX,strip.chat
-  - DOMAIN-SUFFIX,superchatlive.com
-  - DOMAIN-SUFFIX,hsck.la
-  - DOMAIN-SUFFIX,metacubex.one
-  - DOMAIN-SUFFIX,qichiyu.com
-  - DOMAIN-SUFFIX,z-lib.gs
   - DOMAIN-SUFFIX,chiccams.com
   - DOMAIN-SUFFIX,doppiocdn.net
+  - DOMAIN-SUFFIX,fivetiu.com
   - DOMAIN-SUFFIX,fourhoi.com
+  - DOMAIN-SUFFIX,hsck.la
+  - DOMAIN-SUFFIX,magsrv.com
+  - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,missav.ai
+  - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,missav.plus
+  - DOMAIN-SUFFIX,missav.ws
+  - DOMAIN-SUFFIX,mnaspm.com
+  - DOMAIN-SUFFIX,myavlive.com
   - DOMAIN-SUFFIX,nineyu.com
   - DOMAIN-SUFFIX,partwithner.com
+  - DOMAIN-SUFFIX,qichiyu.com
+  - DOMAIN-SUFFIX,recombee.com
   - DOMAIN-SUFFIX,rmhfrthnd.com
+  - DOMAIN-SUFFIX,sacdnssedge.com
+  - DOMAIN-SUFFIX,strip.chat
+  - DOMAIN-SUFFIX,stripcash.com
   - DOMAIN-SUFFIX,stripchat.ooo
   - DOMAIN-SUFFIX,stripchat.webcam
+  - DOMAIN-SUFFIX,strpst.com
+  - DOMAIN-SUFFIX,superchatlive.com
+  - DOMAIN-SUFFIX,surrit.com
   - DOMAIN-SUFFIX,tsyndicate.com
+  - DOMAIN-SUFFIX,xhamster.com
+  - DOMAIN-SUFFIX,xhamsterlive.com
   - DOMAIN-SUFFIX,xhlive.org
   - DOMAIN-SUFFIX,xhlive.stearm
+  - DOMAIN-SUFFIX,z-lib.gs
+
