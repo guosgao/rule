@@ -1,0 +1,7 @@
+# 名称: PlayCN
+# 来源：https://github.com/
+payload:
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,services.googleapis.cn
+  - DOMAIN-SUFFIX,clientservices.googleapis.com
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
