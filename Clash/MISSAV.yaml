@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,tsyndicate.com
   - DOMAIN-SUFFIX,xhamster.com
   - DOMAIN-SUFFIX,xhamsterlive.com
+  - DOMAIN-SUFFIX,cdn.plyr.io
   - DOMAIN-SUFFIX,xhlive.org
   - DOMAIN-SUFFIX,xhlive.stearm
   - DOMAIN-SUFFIX,z-lib.gs
