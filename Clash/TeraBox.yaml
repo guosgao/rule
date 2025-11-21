@@ -1,0 +1,8 @@
+payload:
+  # 内容：TeraBox
+  # 数量：5条
+  - DOMAIN-SUFFIX,terabox.com
+  - DOMAIN-SUFFIX,teraboxcdn.com
+  - DOMAIN-SUFFIX,1024terabox.com
+  - DOMAIN-SUFFIX,teraboxapp.com
+  - DOMAIN-SUFFIX,nephobox.com
