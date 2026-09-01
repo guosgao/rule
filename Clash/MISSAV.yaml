@@ -40,4 +40,11 @@ payload:
   - DOMAIN-SUFFIX,xhlive.stearm
   - DOMAIN-SUFFIX,z-lib.gs
   - DOMAIN-SUFFIX,kjxb.org
-
+  - DOMAIN-SUFFIX,co.jp
+  - DOMAIN-SUFFIX,fanza.jp
+  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN-KEYWORD,clash
+  - DOMAIN-KEYWORD,meta
+  - DOMAIN-KEYWORD,stash
+  - DOMAIN-KEYWORD,metacubex
+  - DOMAIN-KEYWORD,mihomo
