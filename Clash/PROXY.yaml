@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN,edu
   - DOMAIN-KEYWORD,jav
   - DOMAIN-KEYWORD,missav
   - DOMAIN-KEYWORD,z-library
@@ -7,6 +6,7 @@ payload:
   - DOMAIN-KEYWORD,zlibrary
   - DOMAIN-KEYWORD,zlib
   - DOMAIN-SUFFIX,bbrdbr.com
+  - DOMAIN-SUFFIX,beloit.edu
   - DOMAIN-SUFFIX,chiccams.com
   - DOMAIN-SUFFIX,doppiocdn.net
   - DOMAIN-SUFFIX,fivetiu.com
